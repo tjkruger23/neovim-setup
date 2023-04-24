@@ -8,6 +8,7 @@
   "neoconf.nvim": { "branch": "main", "commit": "270836254513b1dacc27efd76b9f805a9cee35c1" },
   "neodev.nvim": { "branch": "main", "commit": "3d14bd6cb967741b9705cd06f05bfd0e1ef141e8" },
   "nvim-cmp": { "branch": "main", "commit": "e28fb7a730b1bd425fdddfdbd3d36bb84bd77611" },
+  "nvim-jdtls": { "branch": "master", "commit": "aa04fc0e4d8acbfa43efc6a6f7162b01987257a1" },
   "nvim-lspconfig": { "branch": "master", "commit": "591d5038552c6cdf6cfc595bc351ccdbb8e62045" },
   "nvim-treesitter": { "branch": "master", "commit": "1280315db14e8b77a381b7c22b8dd0918b01fa8d" },
   "playground": { "branch": "master", "commit": "2b81a018a49f8e476341dfcb228b7b808baba68b" },
